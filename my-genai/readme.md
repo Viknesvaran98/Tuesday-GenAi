@@ -1,1 +1,1 @@
-Just main
+Ai with Ollama
