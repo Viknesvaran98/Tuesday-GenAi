@@ -1,5 +1,5 @@
 {
-  "name": "tuesday-genai",
+  "name": "my-genai",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "openai": "^6.38.0"
+  }
 }
