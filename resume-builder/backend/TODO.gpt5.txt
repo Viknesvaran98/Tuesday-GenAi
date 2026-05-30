@@ -1,0 +1,7 @@
+Fix plan (implemented next)
+- Replace HuggingFace call in /api/ats-optimize with GPT-5 API call.
+- Add helper to call GPT-5 and enforce JSON output.
+- Ensure Node fetch availability.
+- Fix /api/resumes/:id/ats-check to call the optimizer directly (no localhost recursion).
+- Ensure atsOptimizedContent fields are consistent.
+
